@@ -1,0 +1,22 @@
+Q9: My thoughts were in the form of images
+
+Best Scores for Each Model:
+Logistic Regression: 0.5675770308123249
+Random Forest: 0.5986694677871148
+Naive Bayes: 0.5425420168067226
+Support Vector Machines: 0.5669117647058823
+Gradient Boosting Machines: 0.5755252100840336
+Neural Networks: 0.5950980392156863
+
+Electrodes:
+Fp1, F7, Fp2, F8, F4, AF3, AF4, AF7, AF8, F3, F5, F6, FC1, FC2, FC5, FC6, FT7, FT8, C3, C4, C5, C6, T7, T8, TP7, TP8, CP1, CP2, CP5, CP6, P3, P4, P5, P6, P7, P8, PO3, PO4, PO7, PO8, O1, O2
+Top 20 Electrodes:
+FC1, F8, F5, CP5, FC5, CP2, O1, C5, O2, TP8, FC2, AF7, CP1, P8, PO8, AF8, Fp2, F7, FT7, FT8
+
+Best Scores for Each Model (Top 20 Electrodes):
+Logistic Regression: 0.5675770308123249
+Random Forest: 0.5913515406162465
+Naive Bayes: 0.5425420168067226
+Support Vector Machines: 0.5669117647058823
+Gradient Boosting Machines: 0.5755252100840336
+Neural Networks: 0.5950980392156863

@@ -1,0 +1,22 @@
+Q8: I was fully awake
+
+Best Scores for Each Model:
+Logistic Regression: 0.6190270047412905
+Random Forest: 0.7090290661719233
+Naive Bayes: 0.5296846011131725
+Support Vector Machines: 0.6505462791177077
+Gradient Boosting Machines: 0.708183879612451
+Neural Networks: 0.6657184085755514
+
+Electrodes:
+Fp1, F7, Fp2, F8, F4, AF3, AF4, AF7, AF8, F3, F5, F6, FC1, FC2, FC5, FC6, FT7, FT8, C3, C4, C5, C6, T7, T8, TP7, TP8, CP1, CP2, CP5, CP6, P3, P4, P5, P6, P7, P8, PO3, PO4, PO7, PO8, O1, O2
+Top 20 Electrodes:
+T7, P4, CP6, CP2, CP5, TP7, F4, AF7, AF4, F7, FT8, P5, FT7, F5, Fp1, T8, Fp2, PO8, O2, P3
+
+Best Scores for Each Model (Top 20 Electrodes):
+Logistic Regression: 0.6190270047412905
+Random Forest: 0.710719439290868
+Naive Bayes: 0.5296846011131725
+Support Vector Machines: 0.6505462791177077
+Gradient Boosting Machines: 0.708183879612451
+Neural Networks: 0.6657184085755514
