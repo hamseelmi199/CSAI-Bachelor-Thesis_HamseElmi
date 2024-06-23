@@ -1,1 +1,1 @@
-# CSAI_Bachelor_Thesis
+# CSAI Bachelor Thesis
