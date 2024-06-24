@@ -29,12 +29,15 @@ The EEG dataset used in this study is the test-retest resting and cognitive stat
 
 
 ## Folder Structure
-#Main Code
+
+Main Code
 - 'code_final.ipynb' The main script in iPynb format that includes data preprocessing, model training, evaluation, and interpretability analysis.
 - `code_final.py`: The main script that includes data preprocessing, model training, evaluation, and interpretability analysis.
-#Model Results
+
+Model Results
 - Includes model results for different splitting of positive and negative and balancing methods.
-#Script for files
+
+Script for files
 - 'filtered_file.csv' Includes the dataset labels for splitting data into positive and negative classes.
 - 'Script for files.ipynb' The main iPynb script for labeling data from dataset and sorting them into the correct folders.
 ## Requirements
