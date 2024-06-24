@@ -1,0 +1,20 @@
+Best Scores for Each Model:
+Logistic Regression: 0.6185614185614186
+Random Forest: 0.6432074932074932
+Naive Bayes: 0.5613971113971115
+Support Vector Machines: 0.6181610181610182
+Gradient Boosting Machines: 0.6430501930501931
+Neural Networks: 0.6165022165022165
+
+Electrodes:
+Fp1, F7, Fp2, F8, F4, AF3, AF4, AF7, AF8, F3, F5, F6, FC1, FC2, FC5, FC6, FT7, FT8, C3, C4, C5, C6, T7, T8, TP7, TP8, CP1, CP2, CP5, CP6, P3, P4, P5, P6, P7, P8, PO3, PO4, PO7, PO8, O1, O2
+Top 20 Electrodes:
+FC1, P7, P6, CP1, F8, TP7, CP5, F3, AF3, P3, FC2, T7, O2, CP6, PO8, CP2, FC5, C5, F6, P8
+
+Best Scores for Each Model (Top 20 Electrodes):
+Logistic Regression: 0.6094594594594596
+Random Forest: 0.6395180895180895
+Naive Bayes: 0.5366580866580867
+Support Vector Machines: 0.6193979693979694
+Gradient Boosting Machines: 0.6293221793221793
+Neural Networks: 0.6305233805233805
